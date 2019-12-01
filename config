@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "github_testing"]
+	url = https://vogella@github.com/vogella/gitbook.git
+	fetch = +refs/heads/*:refs/remotes/github_testing/*
+[remote "origin"]
+	url = ../test-git-name.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

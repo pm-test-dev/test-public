@@ -1,0 +1,13 @@
+HEAD
+branches
+config
+description
+gitbook
+hooks
+info
+lzload.trace
+newfileanalyzis.txt
+objects
+refs
+test01
+test02
